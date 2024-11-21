@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-void printit(int x);
-
 void add(int x, int y);
 
 
