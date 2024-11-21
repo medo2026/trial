@@ -2,6 +2,8 @@
 
 void printit(int x);
 
+void add(int x, int y);
+
 
 int main() {
 
